@@ -85,15 +85,15 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BALASUBARAMANIYAM&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavithran200412&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=BALASUBARAMANIYAM&theme=tokyonight&hide_border=true" />
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=Pavithran200412&theme=tokyonight&hide_border=true" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=BALASUBARAMANIYAM&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Pavithran20012&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
       </td>
     </tr>
   </table>
