@@ -5,7 +5,7 @@
 
 ### 💫 About Me
 
-- 🎓 I'm a **Computer Science Engineering** student at **Madras Institute of Technology**, Anna University  
+- 🎓 Computer Science Engineering student at **Madras Institute of Technology**, Anna University  
 - 🧠 Passionate about building useful apps, solving problems, and learning new tech  
 - 🛠️ Strong foundation in **Java, OOPS, OS, DS, CN**  
 - ⚡ Fun fact: Ctrl + C, Ctrl + V & Ctrl + Z are better than Batman 😄  
@@ -57,6 +57,15 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
+
+---
+
+## 🌟 Featured Projects
+
+- [Leetcode](https://github.com/Pavithran200412/Leetcode): My journey solving algorithmic challenges and improving problem-solving skills.
+- [Solvexa](https://github.com/Pavithran200412/Solvexa): A toolkit for efficient solutions and productivity.
+- [INOEX](https://github.com/Pavithran200412/INOEX): Innovative experiments and explorations in tech.
+- [Portfolio](https://github.com/Pavithran200412/Portfolio): My personal site showcasing projects, achievements, and interests.
 
 ---
 
