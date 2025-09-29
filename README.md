@@ -63,22 +63,6 @@
 
 ---
 
-### 🚀 Projects
-
-#### 🔹 [Smart Email Replier](https://github.com/BALASUBARAMANIYAM/Smart-Email-Replier)
-> Chrome extension that suggests AI-generated tone-based replies inside Gmail.  
-> **Tech Used:** Spring Boot, JS, Gemini API, HTML, CSS  
-
-#### 🔹 [Stock Market Trend Analysis](https://github.com/BALASUBARAMANIYAM/STOCK-MARKET-TREND-ANALYSIS)
-> Built LSTM + TCN hybrid model using technical indicators for better stock predictions  
-> **Tech Used:** Python, Keras, ReactJS, Pandas  
-
-#### 🔹 [DealsHub](https://github.com/BALASUBARAMANIYAM/Dealshub)
-> Aggregator to find the best Amazon deals via RapidAPI and alert users  
-> **Tech Used:** ReactJS, Spring Boot, MySQL  
-
----
-
 ### 📊 GitHub Progress
 
 <div align="center">
@@ -93,11 +77,12 @@
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Pavithran20012&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Pavithran200412&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
       </td>
     </tr>
   </table>
 </div>
+
 
 
 _“Consistency over perfection — one line of code at a time.”_
